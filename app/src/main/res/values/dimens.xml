@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="image_size">140dp</dimen>
+    <dimen name="image_size_small">70dp</dimen>
+    <dimen name="heading_text">16sp</dimen>
+    <dimen name="quantity_display_view">20sp</dimen>
+    <dimen name="sale_button_textsize">25sp</dimen>
+</resources>
